@@ -17,3 +17,7 @@ Desenvolvido por Hadênia Rodrigues
 <p align="center">
   <img src="https://github.com/Hadenia/DevMail/blob/master/devemail/assets/tela2.jpeg" width="300" title="tela2">
 </p>
+
+### 🎥 Video
+Apresentação do aplicativo DevMail funcionando em smartphone Android, moto G8 play. </br>
+Link: https://youtu.be/ZsCcQYGriFY
