@@ -2,7 +2,7 @@
 
 ### 💻 Sobre
 Aplicativo de E-mail
-Projeto da Disciplina de Desenvolvimento de Dispositivos Móveis - UFRN
+Projeto da Disciplina de Desenvolvimento para Dispositivos Móveis - UFRN
 
 ### 🦸 Autor
 Desenvolvido por Hadênia Rodrigues
