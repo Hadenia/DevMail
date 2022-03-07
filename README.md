@@ -1,11 +1,13 @@
 # DevMail
 
-### 💻 Sobre
-Aplicativo de E-mail
+### 🔎 Sobre
+Aplicativo de E-mail, mostrando tela inicial e corpo do e-mail </br>
 Projeto da Disciplina de Desenvolvimento para Dispositivos Móveis - UFRN
 
-### 🦸 Autor
-Desenvolvido por Hadênia Rodrigues
+### 💻 Tecnologias Utilizadas
+* NodeJS
+* React Native
+* Expo CLI
 
 ### 📱 Telas
 * Tela 1 - Tela inícial do aplicativo. </br >Apresenta a Caixa de Entrada do E-mail, com o resumo dos e-mails disponiveis.
@@ -21,3 +23,7 @@ Desenvolvido por Hadênia Rodrigues
 ### 🎥 Video
 Apresentação do aplicativo DevMail funcionando em smartphone Android, moto G8 play. </br>
 Link: https://youtu.be/ZsCcQYGriFY
+
+### 🦸 Autor
+Desenvolvido por Hadênia Rodrigues
+Linkedin: https://www.linkedin.com/in/hadenia/
